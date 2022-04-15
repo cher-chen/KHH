@@ -1,5 +1,4 @@
-### Directory
-* code
-* data
+# Find my algorithms -> code/algo/greedy/
+
 
 
